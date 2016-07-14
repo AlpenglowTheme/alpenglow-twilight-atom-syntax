@@ -3,11 +3,12 @@
   "theme": "syntax",
   "author": "Kai Cataldo <kaicataldo@gmail.com>",
   "version": "0.0.2",
-  "description": "A port of the Alpenglow twilight syntax theme for Atom",
+  "description": "Spiritual successor to @yabatadesign's Afterglow Twilight theme for Atom",
   "keywords": [
     "syntax",
     "theme",
     "afterglow",
+    "alpenglow",
     "twilight"
   ],
   "repository": "https://github.com/AlpenglowTheme/alpenglow-twilight-atom-syntax",
